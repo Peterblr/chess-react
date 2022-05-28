@@ -1,4 +1,4 @@
-# shop -  *training REACT project*
+# CHESS -  *training REACT project*
  
 :floppy_disk:
 
