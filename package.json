@@ -2,7 +2,7 @@
   "name": "chess",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Peterblr.github.io/chess",
+  "homepage": "https://Peterblr.github.io/chess-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
